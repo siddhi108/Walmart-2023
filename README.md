@@ -1,7 +1,7 @@
 # Walmart 2023 - Team 19 
-3652 Vibhuti Patil
-3667 Vaishnavi Gilbile
-3663 Siddhi Sonamwane
+3652 Vibhuti Patil<br>
+3667 Vaishnavi Gilbile<br>
+3663 Siddhi Sonawane
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
